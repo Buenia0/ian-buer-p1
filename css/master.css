@@ -1,0 +1,22 @@
+body
+{
+    background-color: darkgoldenrod;
+}
+
+.header
+{
+    font-family: 'Open Sans', sans-serif;
+    color: goldenrod;
+}
+
+p
+{
+    font-family: "Open Sans", sans-serif;
+    color: brown;
+}
+
+#text1, #text2, #text3
+{
+    font-family: "Open Sans", sans-serif;
+    color: #333300;
+}
